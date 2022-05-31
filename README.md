@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bobo206
+- I need a help to install linux in my device
+- it says "wsl not recognized powershell"
+- please help
